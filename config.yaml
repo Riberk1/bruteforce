@@ -1,0 +1,8 @@
+aplicacao:
+  nome: "Projeto Exemplo"
+  versao: "1.0"
+
+configuracoes:
+  usar_wordlist: true
+  arquivo_wordlist: "wordlist.txt"
+  modo_verbose: true
